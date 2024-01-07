@@ -1,4 +1,4 @@
-module github.com/pthomison/go-useful
+module github.com/pthomison/utilkit
 
 go 1.21.4
 
