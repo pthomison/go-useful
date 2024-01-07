@@ -1,4 +1,4 @@
-package usefulgo
+package utilkit
 
 import (
 	"context"
